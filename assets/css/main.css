@@ -762,11 +762,13 @@ input, select, textarea {
 		list-style: none;
 		margin-left: -1rem;
 		padding-left: 0;
+  	flex-wrap: wrap;
 	}
 
 		ul.actions li {
-			padding: 0 0 0 1rem;
+			padding: 0 0 1rem 1rem;
 			vertical-align: middle;
+			flex: 1;
 		}
 
 		ul.actions.special {
@@ -1009,6 +1011,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		width: 100%;
 	}
 
 		input[type="submit"]:hover,
@@ -1272,7 +1275,7 @@ input, select, textarea {
 			border-radius: 100%;
     }
     
-    #header .logo #logo {
+    #header .logo #logo-image {
       border-radius: 50%;
       z-index: 999;
       opacity: 1;
@@ -1423,7 +1426,7 @@ input, select, textarea {
 					height: calc(2rem + 1px);
 				}
       
-      #header .logo #logo {
+      #header .logo #logo-image {
         width: 7rem;
         height: 7rem;
       }
@@ -1444,7 +1447,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
-      #header .logo #logo {
+      #header .logo #logo-image {
         width: 6rem;
         height: 6rem;
       }
