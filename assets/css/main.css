@@ -152,14 +152,9 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
 		text-decoration: none;
 		color: inherit;
 	}
-
-		a:hover {
-			border-bottom-color: transparent;
-		}
 
 	strong, b {
 		color: #ffffff;
@@ -598,7 +593,6 @@ input, select, textarea {
 
 	.icon, button a {
 		text-decoration: none;
-		border-bottom: none;
 		position: relative;
 	}
 
@@ -769,7 +763,11 @@ input, select, textarea {
 			padding: 0 0 1rem 1rem;
 			vertical-align: middle;
 			flex: 1;
-		}
+    }
+    
+    ul.actions li a.button {
+      width: 100%;
+    }
 
 		ul.actions.special {
 			-moz-justify-content: center;
@@ -861,7 +859,7 @@ input, select, textarea {
 					ul.actions:not(.fixed) li input[type="reset"],
 					ul.actions:not(.fixed) li input[type="button"],
 					ul.actions:not(.fixed) li button,
-					ul.actions:not(.fixed) li .button {
+					ul.actions:not(.fixed) li .button, .button {
 						width: 100%;
 					}
 
@@ -900,7 +898,6 @@ input, select, textarea {
 				line-height: 2.25rem;
 				text-align: center;
 				width: 2.25rem;
-				border-bottom: none;
 			}
 
 				ul.icons li a:hover {
@@ -1017,7 +1014,6 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		width: 100%;
 	}
 
 		input[type="submit"]:hover,
@@ -1357,7 +1353,6 @@ input, select, textarea {
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
-					border-bottom: 0;
 				}
 
 					#header nav ul li a:hover {
