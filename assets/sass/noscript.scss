@@ -4,47 +4,35 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+#bg {
+  body.is-preload & {
+    &:before {
+      background-color: transparent;
+    }
+  }
+}
 
-/* BG */
+#header {
+  body.is-preload & {
+    > * {
+      opacity: 1;
+    }
 
-	#bg {
-		body.is-preload & {
-			&:before {
-				background-color: transparent;
-			}
-		}
-	}
+    @include vendor('filter', 'none');
 
-/* Header */
+    .content {
+      .inner {
+        max-height: none;
+        padding: 3rem 2rem;
+        opacity: 1;
+      }
+    }
+  }
+}
 
-	#header {
-		body.is-preload & {
-			> * {
-				opacity: 1;
-			}
-
-			@include vendor('filter', 'none');
-
-			.content {
-				.inner {
-					max-height: none;
-					padding: 3rem 2rem;
-					opacity: 1;
-				}
-			}
-		}
-	}
-
-/* Main */
-
-	#main {
-		article {
-			opacity: 1;
-			margin: (_size(element-margin) * 2) 0 0 0;
-		}
-	}
+#main {
+  article {
+    opacity: 1;
+    margin: (_size(element-margin) * 2) 0 0 0;
+  }
+}
