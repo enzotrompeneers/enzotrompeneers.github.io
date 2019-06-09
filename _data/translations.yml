@@ -1,3 +1,120 @@
+title:
+  en: "Los Angeles Torrevieja - Bar | Restaurant | Events"
+  nl: "Los Angeles Torrevieja - Bar | Restaurant | Evenementen"
+description:
+  en: "Cocktail Bar | Restaurant | Events | Loungers & Swimming Pool | Tennis Court | Petanque Courts | Wifi Internet | Rent This Location | Rent Indoor Parking Space | Rent Storage Space"
+  nl: "Cocktail Bar | Restaurant | Evenementen | Ligbedden & Zwembad | Tennisbaan | Petanquebanen | Wifi Internet | Locatie afhuren | Huur overdekte parkeerplaats | Huur opslagruimte"
+tagline:
+  en: "Cocktail Bar | Restaurant | Events | Loungers & Swimming Pool | Tennis Court | Petanque Courts | Wifi Internet"
+  nl: "Cocktail Bar | Restaurant | Evenementen | Ligstoelen & Zembad | Tennisbaan | Petanquebanen | Wifi Internet"
+intro: 
+  en: "intro"
+  nl: "intro"
+services:
+  en: "services"
+  nl: "diensten"
+events:
+  en: "events"
+  nl: "evenementen"
+gallery:
+  en: "gallery"
+  nl: "gallerij"
+contact:
+  en: "contact"
+  nl: "contact"
+enjoy:
+  en: "enjoy"
+  nl: "genieten"
+cocktailBar:
+  en: "Cocktail Bar"
+  nl: "Cocktail Bar"
+restaurant:
+  en: "Restaurant"
+  nl: "Restaurant"
+loungersAndSwimmingPool:
+  en: "Loungers & Swimming Pool"
+  nl: "Ligstoelen & Zwembad"
+tennisCourt:
+  en: "Tennis Court"
+  nl: "Tennisbaan"
+petanqueCourts:
+  en: "Petanque Courts"
+  nl: "Petanquebanen"
+wifiInternet:
+  en: "Wifi Internet"
+  nl: "Wifi Internet"
+accessibility:
+  en: "Accessibility"
+  nl: "Toegankelijkheid"
+easyParking: 
+  en: "Easy Parking"
+  nl: "Gemakkelijk parkeren"
+childFriendly:
+  en: "Child Friendly"
+  nl: "Kindvriendelijk"
+accessibleToilets:
+  en: "Accessible Toilets"
+  nl: "Toegankelijke toiletten"
+bathrooms:
+  en: "Bathrooms"
+  nl: "Badkamers"
+dailyOpen:
+  en: "Daily open from 11:00 AM"
+  nl: "Dagelijks geopend vanaf 11:00 uur"
+rentThisLocation:
+  en: "rent this location"
+  nl: "locatie afhuren"
+rentThisLocationTagline:
+  en: "Rent this location for events such as weddings, birthdays, barbecues, communions, live performances, parties, group activities,..."
+  nl: "Huur deze locatie voor evenementen zoals bruiloften, verjaardagen, barbecues, communies, live optredens, feestjes, groepsactiviteiten, ..."
+rentIndoorParkingSpace:
+  en: "rent indoor parking space"
+  nl: "huur overdekte parkeerplaats"
+rentIndoorParkingSpaceTagline:
+  en: "Rent for short - or long term an indoor parking space for cars, motorcycles, bicycles, ..."
+  nl: "Huur voor korte en lange termijn parkeergarages voor auto's, motorfietsen, fietsen, ..."
+rentStorageSpace:
+  en: "rent storage space"
+  nl: "huur opslagruimte"
+rentStorageSpaceTagline:
+  en: "Rent small and big storage spaces where you can safely store your furniture behind locks."
+  nl: "Huur kleine en grote opslagruimtes waar u uw meubels veilig achter slot kunt opbergen."
+comingSoon:
+  en: "coming soon!"
+  nl: "komt binnenkort!"
+getDirections:
+  en: "get directions"
+  nl: "navigeren"
+sendEmail:
+  en: "send e-mail"
+  nl: "stuur e-mail"
+callNow:
+  en: "call now"
+  nl: "bel nu"
+openingHours:
+  en: "opening hours"
+  nl: "openingsuren"
+address:
+  en: "address"
+  nl: "adres"
+email:
+  en: "e-mail"
+  nl: "e-mail"
+phone:
+  en: "phone"
+  nl: "telefoon"
+socialMedia:
+  en: "social media"
+  nl: "sociale media"
+recommendUs:
+  en: "recommend us"
+  nl: "ons aanbevelen"
+reviews:
+  en: "reviews"
+  nl: "reviews"
+writeReview
+  en: "Write a review on Yelp"
+  nl: "Schrijf een review op Yelp"
 losAngelesTorrevieja:
-  en: "Los Angeles Torrevieja - en"
-  nl: "Los Angeles Torrevieja - nl"
+  en: "Los Angeles Torrevieja"
+  nl: "Los Angeles Torrevieja"

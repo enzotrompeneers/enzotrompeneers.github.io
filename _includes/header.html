@@ -1,11 +1,11 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-    <title>Los Angeles Torrevieja - Bar | Restaurant | Events</title>
+    <title>{{ site.data.translations['title'][page.lang] }}</title>
     <link rel="shortcut icon" type="image/png" href="/images/logo.png">
 		<meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta name="description" content="Cocktail Bar | Restaurant | Events | Loungers & Swimming Pool | Tennis Court | Petanque Courts | Wifi Internet | Rent This Location | Rent Indoor Parking Space | Rent Storage Space">
+    <meta name="description" content="{{ site.data.translations['description'][page.lang] }}">
 		<link rel="stylesheet" href="/assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
 	</head>
@@ -25,10 +25,7 @@
 
 								<h1>Los Angeles Torrevieja</h1>
 
-                <p>
-									Cocktail Bar | Restaurant | Evenementen | Ligstoelen & 
-									Zembad | Tennisbaan | Petanquebanen | Wifi Internet
-								</p>
+                <p>{{ site.data.translations['tagline'][page.lang] }}</p>
 
                 <ul class="icons">
                   <li><a href="https://www.facebook.com/LosAngelesTorrevieja" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
@@ -39,11 +36,11 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#intro">Intro</a></li>
-                <li><a href="#services">Diensten</a></li>
-                <li><a href="#events">Evenementen</a></li>
-                <li><a href="#gallery">Gallerij</a></li>
-                <li><a href="#contact">Contact</a></li>
+								<li><a href="#intro">{{ site.data.translations['intro'][page.lang] }}</a></li>
+                <li><a href="#services">{{ site.data.translations['services'][page.lang] }}</a></li>
+                <li><a href="#events">{{ site.data.translations['events'][page.lang] }}</a></li>
+                <li><a href="#gallery">{{ site.data.translations['gallery'][page.lang] }}</a></li>
+                <li><a href="#contact">{{ site.data.translations['contact'][page.lang] }}</a></li>
 							</ul>
 						</nav>
 					</header>
