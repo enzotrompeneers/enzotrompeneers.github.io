@@ -8,23 +8,23 @@ tagline:
   en: "Cocktail Bar | Restaurant | Events | Loungers & Swimming Pool | Tennis Court | Petanque Courts | Wifi Internet"
   nl: "Cocktail Bar | Restaurant | Evenementen | Ligstoelen & Zembad | Tennisbaan | Petanquebanen | Wifi Internet"
 intro: 
-  en: "intro"
-  nl: "intro"
+  en: "Intro"
+  nl: "Intro"
 services:
-  en: "services"
-  nl: "diensten"
+  en: "Services"
+  nl: "Diensten"
 events:
-  en: "events"
-  nl: "evenementen"
+  en: "Events"
+  nl: "Evenementen"
 gallery:
-  en: "gallery"
-  nl: "gallerij"
+  en: "Gallery"
+  nl: "Gallerij"
 contact:
-  en: "contact"
-  nl: "contact"
+  en: "Contact"
+  nl: "Contact"
 enjoy:
-  en: "enjoy"
-  nl: "genieten"
+  en: "Enjoy"
+  nl: "Genieten"
 cocktailBar:
   en: "Cocktail Bar"
   nl: "Cocktail Bar"
