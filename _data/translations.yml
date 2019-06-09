@@ -112,7 +112,7 @@ recommendUs:
 reviews:
   en: "reviews"
   nl: "reviews"
-writeReview
+writeReview:
   en: "Write a review on Yelp"
   nl: "Schrijf een review op Yelp"
 losAngelesTorrevieja:
