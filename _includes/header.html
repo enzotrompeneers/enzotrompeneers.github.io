@@ -19,8 +19,9 @@
 						<div class="content">
 							<div class="inner">
 								<ul class="icons">
-										<li><a href="/">EN</a></li>
-										<li><a href="/nl/" class="active">NL</a></li>
+										{% if page.url == node.url %}
+										<li><a href="/" class="{% if page.lang = "en" %}active{% endif %}">EN</a></li>
+										<li><a href="/nl/" class="{% if page.lang = "nl" %}active{% endif %}">NL</a></li>
 								</ul>
 
 								<h1>Los Angeles Torrevieja</h1>
