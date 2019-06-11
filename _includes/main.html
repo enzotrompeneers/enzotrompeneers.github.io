@@ -23,13 +23,7 @@
       <li>{{ site.data.translations['dailyOpen'][page.lang] }}</li>
     </ul>
 
-    <ul class="actions">
-      <li><a href="#intro" class="button primary">{{ site.data.translations['intro'][page.lang] }}</a></li>
-      <li><a href="#services" class="button">{{ site.data.translations['services'][page.lang] }}</a></li>
-      <li><a href="#events" class="button">{{ site.data.translations['events'][page.lang] }}</a></li>
-      <li><a href="#gallery" class="button">{{ site.data.translations['gallery'][page.lang] }}</a></li>
-      <li><a href="#contact" class="button">{{ site.data.translations['contact'][page.lang] }}</a></li>
-    </ul>
+    {% include menu.html active='services' %}
   </article>
 
   <article id="services">
