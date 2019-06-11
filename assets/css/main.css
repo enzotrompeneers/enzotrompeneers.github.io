@@ -1598,6 +1598,15 @@ body.is-preload #footer {
   padding: .3rem .6rem;
   font: 400 13px system-ui;
 }
-.fa-yelp:before {
+.fa-yelp:before, .fa-star:before {
   margin-left: .25rem;
+}
+
+.button-trustpilot {
+  color: #fff;
+  background: #00b67a;
+  border: 1px solid #00b67a;
+  border-radius: 4px;
+  padding: .3rem .6rem;
+  font: 400 13px system-ui;
 }
