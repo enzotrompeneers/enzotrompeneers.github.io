@@ -23,7 +23,7 @@
       <li>{{ site.data.translations['dailyOpen'][page.lang] }}</li>
     </ul>
 
-    {% include menu.html active='services' %}
+    {% include menu.html active='intro' %}
   </article>
 
   <article id="services">
@@ -39,26 +39,14 @@
     <h3>{{ site.data.translations['rentStorageSpace'][page.lang] }}</h3>
     <p>{{ site.data.translations['rentStorageSpaceTagline'][page.lang] }}</p>
 
-    <ul class="actions">
-      <li><a href="#intro" class="button">{{ site.data.translations['intro'][page.lang] }}</a></li>
-      <li><a href="#services" class="button primary">{{ site.data.translations['services'][page.lang] }}</a></li>
-      <li><a href="#events" class="button">{{ site.data.translations['events'][page.lang] }}</a></li>
-      <li><a href="#gallery" class="button">{{ site.data.translations['gallery'][page.lang] }}</a></li>
-      <li><a href="#contact" class="button">{{ site.data.translations['contact'][page.lang] }}</a></li>
-    </ul>
+    {% include menu.html active='services' %}
   </article>
 
   <article id="events">
     <h2 class="major">{{ site.data.translations['events'][page.lang] }}</h2>
     <p>{{ site.data.translations['comingSoon'][page.lang] }}</p>
 
-    <ul class="actions">
-      <li><a href="#intro" class="button">{{ site.data.translations['intro'][page.lang] }}</a></li>
-      <li><a href="#services" class="button">{{ site.data.translations['services'][page.lang] }}</a></li>
-      <li><a href="#events" class="button primary">{{ site.data.translations['events'][page.lang] }}</a></li>
-      <li><a href="#gallery" class="button">{{ site.data.translations['gallery'][page.lang] }}</a></li>
-      <li><a href="#contact" class="button">{{ site.data.translations['contact'][page.lang] }}</a></li>
-    </ul>
+    {% include menu.html active='events' %}
   </article>
 
   <article id="gallery">
@@ -66,13 +54,7 @@
     <script src="https://social-gallery.com/w/resize.js" embedId="KW2HEPK-ZN1MXV4-GNSBRG1-H84SRW9"></script><iframe src="https://social-gallery.com/w/simple.html?KW2HEPK-ZN1MXV4-GNSBRG1-H84SRW9" id="iframe-KW2HEPK-ZN1MXV4-GNSBRG1-H84SRW9" scrolling="no" allowtransparency="true" style="width:100%;border:0;overflow:hidden;"/></iframe>
     <br><br>
 
-    <ul class="actions">
-      <li><a href="#intro" class="button">{{ site.data.translations['intro'][page.lang] }}</a></li>
-      <li><a href="#services" class="button">{{ site.data.translations['services'][page.lang] }}</a></li>
-      <li><a href="#events" class="button">{{ site.data.translations['events'][page.lang] }}</a></li>
-      <li><a href="#gallery" class="button primary">{{ site.data.translations['gallery'][page.lang] }}</a></li>
-      <li><a href="#contact" class="button">{{ site.data.translations['contact'][page.lang] }}</a></li>
-    </ul>
+    {% include menu.html active='gallery' %}
   </article>
 
   <article id="contact">
@@ -118,12 +100,6 @@
       <a href="https://www.trustpilot.com/evaluate/losangelestorrevieja.com" target="_blank" class="button-trustpilot">{{ site.data.translations['writeReview'][page.lang] }} Trustpilot<span class="icon fa-star"></span></a>
     </p>
 
-    <ul class="actions">
-      <li><a href="#intro" class="button">{{ site.data.translations['intro'][page.lang] }}</a></li>
-      <li><a href="#services" class="button">{{ site.data.translations['services'][page.lang] }}</a></li>
-      <li><a href="#events" class="button">{{ site.data.translations['events'][page.lang] }}</a></li>
-      <li><a href="#gallery" class="button">{{ site.data.translations['gallery'][page.lang] }}</a></li>
-      <li><a href="#contact" class="button primary">{{ site.data.translations['contact'][page.lang] }}</a></li>
-    </ul>
+    {% include menu.html active='contact' %}
   </article>
 </div>
