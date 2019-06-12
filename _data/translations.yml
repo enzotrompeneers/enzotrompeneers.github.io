@@ -13,6 +13,7 @@ en:
   loungersAndSwimmingPool: "Loungers & Swimming Pool"
   tennisCourt: "Tennis Court"
   petanqueCourts: "Petanque Courts"
+  facilities: "Facilities"
   wifiInternet: "Wifi Internet"
   accessibility: "Accessibility"
   easyParking: "Easy Parking"
@@ -39,6 +40,9 @@ en:
   reviews: "reviews"
   writeReview: "Write a review on"
   losAngelesTorrevieja: "Los Angeles Torrevieja"
+  drinkCocktails: "Drink Cocktails"
+  drinkCoffee: "Drink Coffee"
+  eastInsideOutside: "Eat inside or outside"
   
 nl:
   title: "Los Angeles Torrevieja - Bar | Restaurant | Evenementen"
@@ -56,6 +60,7 @@ nl:
   tennisCourt: "Tennisbaan"
   petanqueCourts: "Petanquebanen"
   wifiInternet: "Wifi Internet"
+  facilities: "Faciliteiten"
   accessibility: "Toegankelijkheid"
   easyParking: "Gemakkelijk parkeren"
   childFriendly: "Kindvriendelijk"
@@ -81,3 +86,6 @@ nl:
   reviews: "reviews"
   writeReview: "Schrijf een review op"
   losAngelesTorrevieja: "Los Angeles Torrevieja"
+  drinkCocktails: "Cocktails drinken"
+  drinkCoffee: "Koffie drinken"
+  eastInsideOutside: "Binnen of buiten eten"
