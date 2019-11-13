@@ -55,7 +55,22 @@
 
   <article id="gallery">
     <h2 class="major">{{ t['gallery'] }}</h2>
-    <script src="https://social-gallery.com/w/resize.js" embedId="KW2HEPK-ZN1MXV4-GNSBRG1-H84SRW9"></script><iframe src="https://social-gallery.com/w/simple.html?KW2HEPK-ZN1MXV4-GNSBRG1-H84SRW9" id="iframe-KW2HEPK-ZN1MXV4-GNSBRG1-H84SRW9" scrolling="no" allowtransparency="true" style="width:100%;border:0;overflow:hidden;"/></iframe>
+    <div id="myShop">
+      <a href="https://shop.spreadshirt.com/los-angeles-torrevieja-merch">los-angeles-torrevieja-merch</a>
+    </div>
+  
+    <script>
+        var spread_shop_config = {
+            shopName: 'los-angeles-torrevieja-merch',
+            locale: 'us_US',
+            prefix: 'https://shop.spreadshirt.com',
+            baseId: 'myShop'
+        };
+    </script>
+  
+    <script type="text/javascript"
+            src="https://shop.spreadshirt.com/shopfiles/shopclient/shopclient.nocache.js">
+    </script>
     <br><br>
 
     {% include menu.html active='gallery' %}
