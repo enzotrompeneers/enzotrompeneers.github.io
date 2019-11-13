@@ -55,18 +55,9 @@
 
   <article id="shop">
     <h2 class="major">{{ t['shop'] }}</h2>
-    <div id="myShop">
-      <a href="https://shop.spreadshirt.es/los-angeles-store">los-angeles-store</a>
-    </div>
-    
-    <script>
-        var spread_shop_config = {
-            shopName: 'los-angeles-store',
-            locale: 'en_ES',
-            prefix: 'https://shop.spreadshirt.es',
-            baseId: 'myShop'
-        };
-    </script>
+    <ul class="actions">
+      <li><a href="https://shop.spreadshirt.es/los-angeles-store/" target="_blank" class="button">{{ t['shop'] }}</a></li>
+    </ul>
     <br><br>
 
     {% include menu.html active='shop' %}
