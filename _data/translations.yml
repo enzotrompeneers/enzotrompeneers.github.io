@@ -1,7 +1,7 @@
 en:
   title: "Los Angeles Torrevieja - Bar | Restaurant | Events"
-  description: "Cocktail Bar | Restaurant | Events | Loungers & Swimming Pool | Tennis Court | Petanque Courts | Wifi Internet | Rent This Place | Rent Indoor Parking Space | Rent Storage Space"
-  tagline: "Cocktail Bar | Restaurant | Events | Loungers & Swimming Pool | Tennis Court | Petanque Courts | Wifi Internet"
+  description: "Cocktail Bar | Restaurant | Events | Saunas | Swimming Pool | Sunbeds | Lounges | Tennis Court | Petanque Courts | Billiards | Table football | Wifi | Rent This Place | Rent Indoor Parking Space | Rent Storage Space"
+  tagline: "Cocktail Bar | Restaurant | Events | Saunas | Swimming Pool | Sunbeds | Lounges | Tennis Court | Petanque Courts | Billiards | Table football | Wifi"
   intro: "Intro"
   services: "Services"
   events: "Events"
@@ -58,8 +58,8 @@ en:
   goStore: "Go to the store..."
 nl:
   title: "Los Angeles Torrevieja - Bar | Restaurant | Evenementen"
-  description: "Cocktail Bar | Restaurant | Evenementen | Ligbedden & Zwembad | Tennisbaan | Petanquebanen | Wifi Internet | Locatie afhuren | Huur overdekte parkeerplaats | Huur opslagruimte"
-  tagline: "Cocktail Bar | Restaurant | Evenementen | Ligstoelen & Zembad | Tennisbaan | Petanquebanen | Wifi Internet"
+  description: "Cocktail Bar | Restaurant | Evenementen | Sauna's | Zwembad | Ligstoelen | Lounges | Tennisbaan | Petanquebanen | Biljart | Tafelvoetbal | Wifi | Locatie afhuren | Huur overdekte parkeerplaats | Huur opslagruimte"
+  tagline: "Cocktail Bar | Restaurant | Evenementen | Sauna's | Zembad | Ligstoelen | Lounges | Tennisbaan | Petanquebanen | Biljart | Tafelvoetbal | Wifi"
   intro: "Intro"
   services: "Diensten"
   events: "Evenementen"
@@ -116,8 +116,8 @@ nl:
   goStore: "Ga naar de winkel..."
 fi:
   title: "Los Angeles Torrevieja - Baari | Ravintola | Tapahtumia"
-  description: "Cocktail Baari | Ravintola | Tapahtumia | Auringonotto paikkoja & Uima-allas | Tennis kenttä | Petanki kentät | Wifi Internetti | Vuokraa tämä alue| Vuokraa parkkihalleja | Vuokraa varasto tiloja"
-  tagline: "Cocktail Baari | Ravintola | Tapahtumia | Auringonotto paikkoja & Uima-allas | Tennis Kenttä| Petanki Kentät | Wifi Internet"
+  description: "Cocktail Baari | Ravintola | Tapahtumia | Saunas | Auringonotto paikkoja & Uima-allas | Tennis kenttä | Petanki kentät | Biljardi | Pöytäjalkapallo | Wifi | Vuokraa tämä alue| Vuokraa parkkihalleja | Vuokraa varasto tiloja"
+  tagline: "Cocktail Baari | Ravintola | Tapahtumia | Saunas | Auringonotto paikkoja & Uima-allas | Tennis Kenttä | Petanki Kentät | Biljardi | Pöytäjalkapallo | Wifi"
   intro: "Esittely"
   services: "Palvelut"
   events: "Tapahtumat"
@@ -174,8 +174,8 @@ fi:
   goStore: "Mennä kauppaan..."
 es:
   title: "Los Angeles Torrevieja - Bar | Restaurante | Eventos"
-  description: "Bar de cocktails | Restaurante | Eventos | Piscina con tumbonas | Pista de tenis | Petanca | Wifi Internet | Alquiler del sitio | Alquiler de Garages | Alquiler de locales"
-  tagline: "Bar de cocktails | Restaurante | Eventos | Piscina con tumbonas | Pista de tenis | Petanca | Wifi Internet"
+  description: "Bar de cocktails | Restaurante | Eventos | Saunas | Piscina con tumbonas | Pista de tenis | Petanca | billar | Wifi | Alquiler del sitio | Alquiler de Garages | Alquiler de locales"
+  tagline: "Bar de cocktails | Restaurante | Eventos | Saunas| Piscina con tumbonas | Pista de tenis | Petanca | billar | Wifi"
   intro: "Intro"
   services: "Servicios"
   events: "Eventos"
