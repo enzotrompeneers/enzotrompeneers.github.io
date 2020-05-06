@@ -60,7 +60,7 @@ input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
 }
-underline {
+a.underline {
   text-decoration: underline;
 }
 
