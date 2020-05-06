@@ -66,12 +66,47 @@
     {% include menu.html active='services' %}
   </article>
 
-  <article id="shop">
-    <h2 class="major">{{ t['shop'] }}</h2>
-    <a href="https://shop.spreadshirt.es/los-angeles-store/" target="_blank" class="button">{{ t['goStore'] }}</a>
-    <br><br>
+  <article id="events">
+    <h2 class="major">{{ t['events'] }}</h2>
+    <p>{{ t['comingSoon'] }}</p>
+    <ul class="actions">
+      <li>{{ t['monday'] }}</li>
+      <li>{{ t['tuesday'] }}</li>
+      <li>{{ t['wednesday'] }}</li>
+      <ul>
+        <li>{{ t['country'] }}</li>
+      </ul>
+      <li>{{ t['thursday'] }}</li>
+      <ul>
+        <li>{{ t['karaoke'] }}</li>
+      </ul>
+      <li>{{ t['friday'] }}</li>
+      <ul>
+        <li>{{ t['oldies'] }}</li>
+      </ul>
+      <li>{{ t['saturday'] }}</li>
+      <ul>
+        <li>{{ t['duoAzahara'] }}</li>
+      </ul>
+      <li>{{ t['sunday'] }}</li>
+      <ul>
+        <li>{{ t['bbq'] }}</li>
+        <li>{{ t['gretelAndJuan'] }}</li>
+      </ul>
+    </ul>
 
-    {% include menu.html active='shop' %}
+    {# <h2 class="major">{{ t['activities'] }}</h2>
+    <ul class="actions">
+      <li>{{ t['monday'] }}</li>
+      <li>{{ t['tuesday'] }}</li>
+      <li>{{ t['wednesday'] }}</li>
+      <li>{{ t['thursday'] }}</li>
+      <li>{{ t['friday'] }}</li>
+      <li>{{ t['saturday'] }}</li>
+      <li>{{ t['sunday'] }}</li>
+    </ul> #}
+
+    {% include menu.html active='events' %}
   </article>
 
   <article id="contact">
