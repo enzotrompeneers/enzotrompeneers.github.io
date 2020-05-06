@@ -59,6 +59,9 @@ en:
   sauna: "Sauna"
   saunaOne: "Relax in one of our barrel saunas that is heated by woodfire. Per sauna is 6 people allowed. There is a hot shower next to the saunas, shower cabins, sunbeds, lounges and you can make use of the swimming pool."
   saunaTwo: "Price for the sauna is 10 euro for an hour per person and if you go more hours it will be 8 euro per hour."
+  read: "Read"
+  listen: "Listen"
+  advertisement: "Advertisement"
 nl:
   title: "Los Angeles Torrevieja - Bar | Restaurant | Evenementen"
   description: "Cocktail Bar | Restaurant | Evenementen | Sauna's | Zwembad | Ligstoelen | Lounges | Tennisbaan | Petanquebanen | Biljart | Tafelvoetbal | Wifi | Locatie afhuren | Huur overdekte parkeerplaats | Huur opslagruimte"
@@ -120,6 +123,9 @@ nl:
   sauna: "Sauna"
   saunaOne: "Ontspan in een van onze barrelsauna's die wordt verwarmd door houtvuur. Per sauna is 6 personen toegestaan. Er is een warme douche naast de sauna's, douchecabines, ligbedden, lounges en je kan gebruikmaken van het zwembad."
   saunaTwo: "De prijs voor de sauna is 10 euro voor een uur per persoon en als je meer uren gaat, is dat 8 euro per uur."
+  read: "Lees"
+  listen: "Luister"
+  advertisement: "Advertentie"
 fi:
   title: "Los Angeles Torrevieja - Baari | Ravintola | Tapahtumia"
   description: "Cocktail Baari | Ravintola | Tapahtumia | Saunas | Auringonotto paikkoja & Uima-allas | Tennis kenttä | Petanki kentät | Biljardi | Pöytäjalkapallo | Wifi | Vuokraa tämä alue| Vuokraa parkkihalleja | Vuokraa varasto tiloja"
@@ -181,6 +187,9 @@ fi:
   sauna: "Sauna"
   saunaOne: "Rentoudu yhdessä polttopuun lämmittämässä tynnyrisaunassa. Saunaa kohti on 6 henkilöä. Saunojen, suihkukaappien, aurinkotuoleja, oleskelutilojen vieressä on kuuma suihku ja voit käyttää uima-allasta."
   saunaTwo: "Saunan hinta on 10 euroa tunnilta per henkilö ja jos on enemmän tunteja, se on 8 euroa tunnissa."
+  read: "Lue"
+  listen: "Kuunnella"
+  advertisement: "Mainos"
 es:
   title: "Los Angeles Torrevieja - Bar | Restaurante | Eventos"
   description: "Bar de cocktails | Restaurante | Eventos | Saunas | Piscina con tumbonas | Pista de tenis | Petanca | billar | Wifi | Alquiler del sitio | Alquiler de Garages | Alquiler de locales"
@@ -242,3 +251,7 @@ es:
   sauna: "sauna"
   saunaOne: "Relájese en una de nuestras saunas de barril que se calienta con fuego de leña. Por sauna se permiten 6 personas. Hay una ducha de agua caliente al lado de las saunas, cabinas de ducha, tumbonas, salones y puede hacer uso de la piscina."
   saunaTwo: "El precio de la sauna es de 10 euros por una hora por persona y si va más horas será de 8 euros por hora."
+  read: "Leer"
+  listen: "Escuchar"
+  advertisement: "Anuncio"
+  
