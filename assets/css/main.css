@@ -60,6 +60,9 @@ input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
 }
+a.underline {
+  text-decoration: underline;
+}
 
 input, select, textarea {
 	-moz-appearance: none;
