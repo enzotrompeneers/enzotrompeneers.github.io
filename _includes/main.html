@@ -20,16 +20,12 @@
     <span class="image main"><img src="/images/sauna.jpg" alt="{{ t['sauna'] }}" /></span>
 
     <h3>{{ t['events'] }}</h3>
-    <h4>{{ t['monday'] }}</h4>
-    <p>{{t['eventMonday']}}</p>
-    <h4>{{ t['thursday'] }}</h4>
-    <p>{{t['eventThursday']}}</p>
-    <h4>{{ t['friday'] }}</h4>
-    <p>{{t['eventFriday']}}</p>
-    <h4>{{ t['saturday'] }}</h4>
-    <p>{{t['eventSaturday']}}</p>
-    <h4>{{ t['sunday'] }}</h4>
-    <p>{{t['eventSunday']}}</p>
+    <ul>
+      <li>{{ t['musicEvents'] }}</li>
+      <li>{{ t['drinkEvents'] }}</li>
+      <li>{{ t['foodEvents'] }}</li>
+      <li>{{ t['groupEvents'] }}</li>
+    </ul>
     <span class="image main"><img src="/images/oktoberfest.jpg" alt="{{ t['events'] }}" /></span>
 
     <h3>{{ t['activities'] }}</h3>
@@ -72,14 +68,20 @@
 
   <article id="events">
     <h2 class="major">{{ t['events'] }}</h2>
-    <p>{{ t['comingSoon'] }}</p>
-    <ul>
-      <li>{{ t['wednesday'] }}: {{ t['country'] }}</li>
-      <li>{{ t['thursday'] }}: {{ t['karaoke'] }}</li>
-      <li>{{ t['friday'] }}: {{ t['oldies'] }}</li>
-      <li>{{ t['saturday'] }}: {{ t['duoAzahara'] }}</li>
-      <li>{{ t['sunday'] }}: {{ t['gretelAndJuan'] }} </li>
-    </ul>
+    <h3>{{ t['monday'] }}</h3>
+    <p>{{t['eventMonday']}}</p>
+    <h3>{{ t['thursday'] }}</h3>
+    <p>{{t['eventThursday']}}</p>
+    <h3>{{ t['friday'] }}</h3>
+    <p>{{t['eventFriday']}}</p>
+    <h3>{{ t['saturday'] }}</h3>
+    <p>{{t['eventSaturday']}}</p>
+    <h3>{{ t['sunday'] }}</h3>
+    <p>
+      {{t['eventSunday']}}
+      <br>
+      {{t['comingSoon']}}
+    </p>
 
     {% include menu.html active='events' %}
   </article>
