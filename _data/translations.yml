@@ -77,7 +77,7 @@ en:
   eventMonday: "Monday Market with live music from 12PM"
   eventThursday: "Spanish live music from 7PM"
   eventFriday: "Country live music from 2PM"
-  eventSaturday: "Spanish live music from 7PM"
+  eventSaturday: "Spanish live music from 1PM"
   eventSunday: "The Big Jam live from 2PM"
 nl:
   title: "Los Angeles Torrevieja - Restaurant | Bar | Live muziek | Overdekt Terras"
@@ -158,7 +158,7 @@ nl:
   eventMonday: "Maandagmarkt met live muziek om 12uur"
   eventThursday: "Spaanse live muziek om 19uur"
   eventFriday: "Country live muziek om 14uur"
-  eventSaturday: "Spaanse live muziek om 19uur"
+  eventSaturday: "Spaanse live muziek om 13uur"
   eventSunday: "The Big Jam live om 14uur"
 fi:
   title: "Los Angeles Torrevieja - Ravintola | Baari | Elävä Musiikki | Katettu Terassi"
@@ -239,7 +239,7 @@ fi:
   eventMonday: "Monday Market elävällä musiikilla klo 12.00 alkaen"
   eventThursday: "Espanjalaista elävää musiikkia klo 19.00 alkaen"
   eventFriday: "Country elävää musiikkia klo 14.00 alkaen"
-  eventSaturday: "Espanjalaista elävää musiikkia klo 19.00 alkaen"
+  eventSaturday: "Espanjalaista elävää musiikkia klo 13.00 alkaen"
   eventSunday: "The Big Jam livenä klo 14.00 alkaen"
 es:
   title: "Los Angeles Torrevieja - Restaurante | Bar | Música En Vivo | Terraza Cubierta"
@@ -320,6 +320,6 @@ es:
   eventMonday: "Mercado de lunes con música en vivo a partir de las 12PM"
   eventThursday: "Música en vivo española a partir de las 7PM"
   eventFriday: "Música country en vivo a partir de las 2PM"
-  eventSaturday: "Música en vivo española a partir de las 7PM"
+  eventSaturday: "Música en vivo española a partir de las 1PM"
   eventSunday: "The Big Jam en vivo a partir de las 2PM"
   
