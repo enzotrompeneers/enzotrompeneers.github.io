@@ -81,6 +81,7 @@ en:
   eventSunday: "The Big Jam live from 2PM"
   tapas: "Tapas"
   burrata: "Burrata with tomato"
+  russianSalad: "Russian salad"
 nl:
   title: "Los Angeles Torrevieja - Restaurant | Bar | Live muziek | Overdekt Terras"
   description: "Restaurant | Cocktail Bar | Live Muziek | Overdekt Terras | Sauna's | Zwembad | Ligstoelen | Lounges | Petanquebanen | Live Muziek | Evenementen | Klassen | Biljart | Tafelvoetbal | Wifi | Locatie afhuren | Huur overdekte parkeerplaats | Huur opslagruimte"
@@ -164,6 +165,7 @@ nl:
   eventSunday: "The Big Jam live om 14uur"
   tapas: "Tapas"
   burrata: "Burrata met tomaat"
+  russianSalad: "Russische salade"
 fi:
   title: "Los Angeles Torrevieja - Ravintola | Baari | Elävä Musiikki | Katettu Terassi"
   description: "Ravintola | Cocktail Baari | Elävä Musiikki | Katettu Terassi | Saunas | Auringonotto paikkoja & Uima-allas | Petanki kentät | Elävä Musiikki | Tapahtumia | Luokat | Biljardi | Pöytäjalkapallo | Wifi | Vuokraa tämä alue| Vuokraa parkkihalleja | Vuokraa varasto tiloja"
@@ -247,6 +249,7 @@ fi:
   eventSunday: "The Big Jam livenä klo 14.00 alkaen"
   tapas: "Tapaksia"
   burrata: "Burrata tomaatin kanssa"
+  russianSalad: "Venäjän salaatti"
 es:
   title: "Los Angeles Torrevieja - Restaurante | Bar | Música En Vivo | Terraza Cubierta"
   description: "Restaurante | Bar de cocktails | Música En Vivo | Terraza Cubierta | Saunas | Piscina con tumbonas | Petanca | Música En Vivo | Eventos | Clases | Billar | Wifi | Alquiler del sitio | Alquiler de Garages | Alquiler de locales"
@@ -330,4 +333,5 @@ es:
   eventSunday: "The Big Jam en vivo a partir de las 2PM"
   tapas: "Tapas"
   burrata: "Burrata con tomate"
+  russianSalad: "Ensalada rusa"
   
