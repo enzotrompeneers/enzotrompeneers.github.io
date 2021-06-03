@@ -79,7 +79,6 @@ en:
   eventFriday: "Country live music from 2PM"
   eventSaturday: "Spanish live music from 1PM"
   eventSunday: "The Big Jam live from 2PM"
-
   tapas: "Tapas"
   burrata: "Burrata with tomato"
 nl:
@@ -163,6 +162,8 @@ nl:
   eventFriday: "Country live muziek om 14uur"
   eventSaturday: "Spaanse live muziek om 13uur"
   eventSunday: "The Big Jam live om 14uur"
+  tapas: "Tapas"
+  burrata: "Burrata met tomaat"
 fi:
   title: "Los Angeles Torrevieja - Ravintola | Baari | Elävä Musiikki | Katettu Terassi"
   description: "Ravintola | Cocktail Baari | Elävä Musiikki | Katettu Terassi | Saunas | Auringonotto paikkoja & Uima-allas | Petanki kentät | Elävä Musiikki | Tapahtumia | Luokat | Biljardi | Pöytäjalkapallo | Wifi | Vuokraa tämä alue| Vuokraa parkkihalleja | Vuokraa varasto tiloja"
@@ -244,6 +245,8 @@ fi:
   eventFriday: "Country elävää musiikkia klo 14.00 alkaen"
   eventSaturday: "Espanjalaista elävää musiikkia klo 13.00 alkaen"
   eventSunday: "The Big Jam livenä klo 14.00 alkaen"
+  tapas: "Tapaksia"
+  burrata: "Burrata tomaatin kanssa"
 es:
   title: "Los Angeles Torrevieja - Restaurante | Bar | Música En Vivo | Terraza Cubierta"
   description: "Restaurante | Bar de cocktails | Música En Vivo | Terraza Cubierta | Saunas | Piscina con tumbonas | Petanca | Música En Vivo | Eventos | Clases | Billar | Wifi | Alquiler del sitio | Alquiler de Garages | Alquiler de locales"
@@ -325,4 +328,6 @@ es:
   eventFriday: "Música country en vivo a partir de las 2PM"
   eventSaturday: "Música en vivo española a partir de las 1PM"
   eventSunday: "The Big Jam en vivo a partir de las 2PM"
+  tapas: "Tapas"
+  burrata: "Burrata con tomate"
   
