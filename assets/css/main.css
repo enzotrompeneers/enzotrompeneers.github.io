@@ -648,7 +648,6 @@ input[type="radio"] + label:before {
   margin: 2.5rem;
   max-width: 200px;
 }
-
 @media screen and (max-width: 576px) {
 .image.grid {
     margin: 0 auto;
@@ -656,16 +655,9 @@ input[type="radio"] + label:before {
     display: block;
 }
 
-.image.main, .image.grid {
+.image.main {
   display: block;
   margin: 2.5rem 0;
-  width: 100%;
-}
-
-.image.main img {
-  width: 100%;
-}
-.image.main img {
   width: 100%;
 }
 
