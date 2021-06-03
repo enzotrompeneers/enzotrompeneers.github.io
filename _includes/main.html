@@ -49,10 +49,16 @@
 
   <article id="menu">
     <h2 class="major">{{ t['menu'] }}</h2>
+    <ul class="icons">
+      <li><a href="/#menu" class="{% if page.lang == 'en' %}active{% endif %}">EN</a></li>
+      <li><a href="/es/#menu" class="{% if page.lang == 'es' %}active{% endif %}">ES</a></li>
+      <li><a href="/nl/#menu" class="{% if page.lang == 'nl' %}active{% endif %}">NL</a></li>
+      <li><a href="/fi/#menu" class="{% if page.lang == 'fi' %}active{% endif %}">FI</a></li>
+  </ul>
     <h3>{{ t['tapas'] }}</h3>
     <span class="image main"><img src="/images/burrata.jpeg" alt="{{ t['burrata'] }}" />
       {{ t['burrata'] }}<br>
-      4.50 euro
+      8.50 euro
     </span>
 
 
