@@ -652,7 +652,7 @@ input[type="radio"] + label:before {
 .image.grid {
   display:inline-block;
   margin: 0 0.5rem;
-  max-width: 32.9%;
+  max-width: 30%;
   text-align: center;
 }
 
@@ -665,7 +665,7 @@ input[type="radio"] + label:before {
     margin: 2rem 0;
   }
   .image.grid {
-    max-width: 49.4%
+    max-width: 44.7%
   }
 }
 
