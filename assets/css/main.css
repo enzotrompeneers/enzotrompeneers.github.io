@@ -645,9 +645,10 @@ input[type="radio"] + label:before {
 }
 .image.grid {
   display: inline-block;
-  margin: 1rem 0;
+  margin: 2.5rem;
   max-width: 200px;
 }
+
 @media screen and (max-width: 576px) {
 .image.grid {
     margin: 0 auto;
@@ -655,24 +656,27 @@ input[type="radio"] + label:before {
     display: block;
 }
 
-.image.main {
+.image.main, .image.grid {
   display: block;
   margin: 2.5rem 0;
   width: 100%;
 }
 
-.image img {
+.image.main img {
+  width: 100%;
+}
+.image.main img {
   width: 100%;
 }
 
 @media screen and (max-width: 736px) {
-  .image {
+  .image.main {
     margin: 2rem 0;
   }
 }
 
 @media screen and (max-width: 576px) {
-  .image {
+  .image.main {
     margin: 1.5rem 0;
   }
 }
