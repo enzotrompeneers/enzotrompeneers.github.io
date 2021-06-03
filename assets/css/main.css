@@ -649,6 +649,10 @@ input[type="radio"] + label:before {
   margin: 2.5rem 0;
   width: 100%;
 }
+.image.grid {
+  display:inline-block;
+  margin:1rem 0;
+}
 
 .image.main img, .image.grid img {
   width: 100%;
