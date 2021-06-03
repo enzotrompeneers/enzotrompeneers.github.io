@@ -651,7 +651,9 @@ input[type="radio"] + label:before {
 }
 .image.grid {
   display:inline-block;
-  margin:1rem 0;
+  margin: 0 0.5rem;
+  max-width: 32.9%;
+  text-align: center;
 }
 
 .image.main img, .image.grid img {
@@ -661,6 +663,9 @@ input[type="radio"] + label:before {
 @media screen and (max-width: 736px) {
   .image.main {
     margin: 2rem 0;
+  }
+  .image.grid {
+    max-width: 49.4%
   }
 }
 
