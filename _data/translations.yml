@@ -97,6 +97,7 @@ en:
   bravas: "Hot potatoes"
   meatPlate: "Meat Plate"
   carpaccio: "Carpaccio"
+  reserve: "Reservate"
 nl:
   title: "Los Angeles Torrevieja - Restaurant | Bar | Live muziek | Overdekt Terras"
   description: "Restaurant | Cocktail Bar | Live Muziek | Overdekt Terras | Sauna's | Zwembad | Ligstoelen | Lounges | Petanquebanen | Live Muziek | Evenementen | Klassen | Biljart | Tafelvoetbal | Wifi | Locatie afhuren | Huur overdekte parkeerplaats | Huur opslagruimte"
@@ -196,6 +197,8 @@ nl:
   bravas: "Patatas Bravas"
   meatPlate: "Vleesbordje"
   carpaccio: "Carpaccio"
+  reserve: "Reserveer"
+
 fi:
   title: "Los Angeles Torrevieja - Ravintola | Baari | Elävä Musiikki | Katettu Terassi"
   description: "Ravintola | Cocktail Baari | Elävä Musiikki | Katettu Terassi | Saunas | Auringonotto paikkoja & Uima-allas | Petanki kentät | Elävä Musiikki | Tapahtumia | Luokat | Biljardi | Pöytäjalkapallo | Wifi | Vuokraa tämä alue| Vuokraa parkkihalleja | Vuokraa varasto tiloja"
@@ -295,6 +298,8 @@ fi:
   bravas: "Patatas Bravas"
   meatPlate: "Lihalevy"
   carpaccio: "Carpaccio"
+  reserve: "Kirja"
+
 es:
   title: "Los Angeles Torrevieja - Restaurante | Bar | Música En Vivo | Terraza Cubierta"
   description: "Restaurante | Bar de cocktails | Música En Vivo | Terraza Cubierta | Saunas | Piscina con tumbonas | Petanca | Música En Vivo | Eventos | Clases | Billar | Wifi | Alquiler del sitio | Alquiler de Garages | Alquiler de locales"
@@ -394,4 +399,5 @@ es:
   bravas: "Patatas Bravas"
   meatPlate: "Embutidos"
   carpaccio: "Carpaccio"
+  reserve: "Reservar"
   
