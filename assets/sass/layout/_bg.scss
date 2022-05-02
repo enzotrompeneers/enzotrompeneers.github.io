@@ -39,10 +39,11 @@
       'filter #{_duration(article)} ease-in-out'
     ));
     background-image:		url('../../images/bg.jpeg');
-    background-position:	center;
+    background-position:	top;
     background-size:		cover;
     background-repeat:		no-repeat;
     z-index: 1;
+    opacity: 0.6;
   }
 
   body.is-article-visible & {
