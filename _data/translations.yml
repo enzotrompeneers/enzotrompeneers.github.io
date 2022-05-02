@@ -1,7 +1,7 @@
 en:
   title: "Los Angeles Torrevieja - Restaurant | Bar | Live Music | Covered Terrace"
   description: "Restaurant | Cocktail Bar | Live Music | Covered Terrace | Saunas | Swimming Pool | Sunbeds | Lounges | Petanque Courts | Live Music | Events | Classes | Billiards | Table football | Wifi | Rent This Place | Rent Indoor Parking Space | Rent Storage Space"
-  tagline: "Restaurant | Cocktail Bar | Live Music | Covered Terrace | Saunas | Swimming Pool | Petanque Courts | Events | Classes | Wifi"
+  tagline: "Restaurant | Live Events | Swimming Pool | Padel | Footbal | Petanque | Saunas"
   intro: "Intro"
   menu: "Menu"
   events: "Events"
@@ -101,7 +101,7 @@ en:
 nl:
   title: "Los Angeles Torrevieja - Restaurant | Bar | Live muziek | Overdekt Terras"
   description: "Restaurant | Cocktail Bar | Live Muziek | Overdekt Terras | Sauna's | Zwembad | Ligstoelen | Lounges | Petanquebanen | Live Muziek | Evenementen | Klassen | Biljart | Tafelvoetbal | Wifi | Locatie afhuren | Huur overdekte parkeerplaats | Huur opslagruimte"
-  tagline: "Restaurant | Cocktail Bar | Live Muziek | Overdekt Terras | Sauna's | Zembad | Petanquebanen | Evenementen | Klassen | Wifi"
+  tagline: "Restaurant | Live Events | Zwembad | Padel | Voetbal | Petanque | Saunas"
   intro: "Intro"
   menu: "Menu"
   events: "Events"
@@ -202,6 +202,7 @@ nl:
 fi:
   title: "Los Angeles Torrevieja - Ravintola | Baari | Elävä Musiikki | Katettu Terassi"
   description: "Ravintola | Cocktail Baari | Elävä Musiikki | Katettu Terassi | Saunas | Auringonotto paikkoja & Uima-allas | Petanki kentät | Elävä Musiikki | Tapahtumia | Luokat | Biljardi | Pöytäjalkapallo | Wifi | Vuokraa tämä alue| Vuokraa parkkihalleja | Vuokraa varasto tiloja"
+  tagline: "Ravintola | Live-tapahtumat | Uima-allas | Padel | Jalkapallo | Petankki | saunat"
   tagline: "Ravintola | Cocktail Baari | Elävä Musiikki | Katettu Terassi | Saunas | Uima-allas | Petanki Kentät | Tapahtumia | Luokat | Wifi"
   intro: "Esittely"
   menu: "Valikossa"
