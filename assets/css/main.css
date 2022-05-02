@@ -1223,7 +1223,7 @@ body.is-article-visible #bg:after {
   left: calc(50% - 1px);
   width: 1px;
   height: calc(3.5rem + 1px);
-  background: #ffffff00;
+  background: #ffffff;
   z-index: -1;
 }
 
