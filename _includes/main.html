@@ -75,11 +75,6 @@
       <a href="tel:664894835">664 894 835</a><br>
       <a href="mailto:cars@losangelestorrevieja.com">cars@losangelestorrevieja.com</a>
     </p>
-    
-    
-
-
-
     {% include menu.html active='cars' %}
   </article>
 
@@ -93,9 +88,15 @@
     <p>{{t['eventWednesday']}}</p>
     <span class="image main"><img src="/images/forever-young.png" alt="{{ t['wednesday'] }}" /></span>
 
-    <h3>{{ t['thursday'] }} & {{ t['saturday'] }} & {{ t['sunday'] }}</h3>
+    <h3>{{ t['friday'] }}</h3>
+    <p>{{t['eventFriday']}}</p>
+    <span class="image main"><img src="/images/fridays.png" alt="{{ t['friday'] }}" /></span>
+    <p>{{t['eventFriday2']}}</p>
+    <span class="image main"><img src="/images/fridays2.png" alt="{{ t['friday'] }}" /></span>
+
+    <h3>{{ t['saturday'] }}</h3>
     <p>{{t['eventSaturday']}}</p>
-    <span class="image main"><img src="/images/paco.jpeg" alt="{{ t['eventSaturday'] }}" /></span>
+    <span class="image main"><img src="/images/paco.jpeg" alt="{{ t['saturday'] }}" /></span>
     
 
     {% include menu.html active='events' %}
